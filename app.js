@@ -341,16 +341,13 @@ function renderNow() {
     : "";
 
   renderWeatherCard();
-  renderWearCard();
 }
 
 /** Standing advice for a class held outdoors, on concrete. */
-function renderWearCard() {
+function wearCard() {
   const w = state.cfg?.whatToWear;
-  const slot = $("#wearCard");
-  if (!slot) return;
-  if (!w?.tips?.length) { slot.innerHTML = ""; return; }
-  slot.innerHTML = card(`
+  if (!w?.tips?.length) return "";
+  return card(`
     <h2 class="card-h">What to wear</h2>
     <div class="prose">
       ${w.intro ? `<p>${h(w.intro)}</p>` : ""}
@@ -838,6 +835,8 @@ function renderInfo() {
         <ul>${sched}</ul>
         <p>We dance outdoors on the lawn at ${h(c.location.name.split("—")[0].trim())}. Afterwards most of us wander over to the social together — come along, there's no pressure to dance a single song.</p>
       </div>`)}
+
+    ${wearCard()}
 
     ${card(`
       <h2 class="card-h">What is rueda, anyway?</h2>
