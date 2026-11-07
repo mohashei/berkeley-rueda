@@ -158,7 +158,7 @@ async function boot() {
 
 /* ───────────────────────────────── router ─────────────────────────────── */
 
-const views = ["now", "moves", "events", "info"];
+const views = ["now", "info", "moves", "events"];
 function go(view) {
   views.forEach((v) => ($(`#view-${v}`).hidden = v !== view));
   $$(".tab").forEach((t) => {
@@ -799,7 +799,17 @@ function renderInfo() {
       <div class="prose">
         <p>If you've never danced a step in your life, you're exactly who these classes are for. Turn up on your own or with a friend — you don't need a partner, you don't need special shoes, and you don't need to have any idea what you're doing. Someone will show you.</p>
         <p>It's free. Every week. Really.</p>
-      </div>`, "hello")}
+      </div>
+      ${
+        chatUrl()
+          ? `<div class="ev-actions" style="margin-top:13px">
+              <a class="btn primary" href="${h(chatUrl())}" target="_blank" rel="noopener">
+                <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M20 11.8a8 8 0 0 1-11.9 7L4 20l1.3-3.9A8 8 0 1 1 20 11.8z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></svg>
+                Join the WhatsApp group
+              </a>
+            </div>`
+          : ""
+      }`, "hello")}
 
     ${card(`
       <h2 class="card-h">How a ${
