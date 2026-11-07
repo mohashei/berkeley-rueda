@@ -1,9 +1,13 @@
-/* Service worker: makes the app open instantly and keep working with no signal
-   (a campus lawn is a surprisingly bad place for reception).
-   Shell files are cached on install; data files are fetched fresh when possible
-   and served from cache when not. */
+/* Service worker: keeps the app working with no signal (a campus lawn is a
+   surprisingly bad place for reception).
 
-const VERSION = "rueda-v3";
+   Strategy: network-first for everything, falling back to the cache when the
+   network is slow or absent. Cache-first would open a touch faster, but it
+   serves the previous visit's page — so an update you pushed this morning
+   wouldn't show up until someone opened the app twice. Being right matters
+   more here than saving 50ms on a 60KB page. */
+
+const VERSION = "rueda-v4";
 const SHELL = [
   ".", "index.html", "app.css", "app.js",
   "manifest.webmanifest", "icons/favicon.svg", "icons/apple-touch-icon.png",
@@ -28,37 +32,22 @@ self.addEventListener("activate", (e) => {
 self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
-  const url = new URL(req.url);
 
-  // Never cache third parties (YouTube, Google Calendar, Open-Meteo).
-  if (url.origin !== location.origin) return;
+  // Leave third parties alone (YouTube, Google Calendar, Open-Meteo).
+  if (new URL(req.url).origin !== location.origin) return;
 
-  const isData = url.pathname.includes("/data/");
-
-  if (isData) {
-    // network-first: today's events beat yesterday's events
-    e.respondWith(
-      fetch(req)
-        .then((res) => {
+  e.respondWith(
+    fetch(req)
+      .then((res) => {
+        if (res.ok) {
           const copy = res.clone();
           caches.open(VERSION).then((c) => c.put(req, copy));
-          return res;
-        })
-        .catch(() => caches.match(req, { ignoreSearch: true }))
-    );
-    return;
-  }
-
-  // cache-first for the shell, with a background refresh
-  e.respondWith(
-    caches.match(req, { ignoreSearch: true }).then((hit) => {
-      const net = fetch(req)
-        .then((res) => {
-          if (res.ok) caches.open(VERSION).then((c) => c.put(req, res.clone()));
-          return res;
-        })
-        .catch(() => hit || caches.match("index.html"));
-      return hit || net;
-    })
+        }
+        return res;
+      })
+      .catch(async () =>
+        (await caches.match(req, { ignoreSearch: true })) ||
+        (req.mode === "navigate" ? caches.match("index.html") : Response.error())
+      )
   );
 });
