@@ -1,0 +1,109 @@
+{
+  "_readme": "Everything about your group lives here. Edit this file (not the code) to change times, location, or links. Times are 24h 'HH:MM' in the group's timezone. day: 0=Sunday ... 4=Thursday ... 6=Saturday.",
+  "group": {
+    "name": "Berkeley Rueda de Casino",
+    "shortName": "Berkeley Rueda",
+    "tagline": "Cuban salsa in a circle. Thursdays on the lawn. Everyone welcome, always free.",
+    "city": "Berkeley, CA"
+  },
+  "timezone": "America/Los_Angeles",
+  "location": {
+    "name": "Valley Life Sciences Building — north side (outdoors)",
+    "detail": "On UC Berkeley's campus — we're the circle of people on the grass on the north side of VLSB. If the weather turns, check the Tonight tab before you set off.",
+    "mapsUrl": "https://goo.gl/maps/Hjz3sdy5DGP5Gg8w9",
+    "lat": 37.8719,
+    "lon": -122.2624
+  },
+  "schedule": [
+    {
+      "id": "beg-int",
+      "day": 4,
+      "start": "19:00",
+      "end": "20:00",
+      "title": "Beginner + Intermediate classes",
+      "note": "Two classes side by side, open to everyone. No partner, no experience, no cost.",
+      "level": "beginner",
+      "atLocation": true
+    },
+    {
+      "id": "comal",
+      "day": 4,
+      "start": "20:30",
+      "end": "22:00",
+      "title": "Social dancing at Comal",
+      "note": "Jose spins Latin music on vinyl. Free, and no pressure to dance.",
+      "level": "social",
+      "venue": "Comal, 2020 Shattuck Ave, Berkeley",
+      "mapsUrl": "https://maps.google.com/?q=Comal+2020+Shattuck+Ave+Berkeley",
+      "atLocation": false
+    }
+  ],
+  "links": [
+    {
+      "label": "Our moves document",
+      "url": "https://docs.google.com/document/d/1lu0E78OzwgbZ-Fw74yhmrpKr_KAt_aCk6QeL6SqYxTQ/edit?usp=sharing",
+      "icon": "doc"
+    },
+    {
+      "label": "Join the advanced class",
+      "url": "https://docs.google.com/spreadsheets/d/1ljE-TQppLWGz8msvA3OpJPObhOxAl-SmANqUPqYJrXM/edit?usp=sharing",
+      "icon": "list"
+    },
+    {
+      "label": "WhatsApp group — bring a friend",
+      "url": "https://chat.whatsapp.com/JslpcpaY1B0Bp7puJqK7L6",
+      "icon": "chat"
+    },
+    {
+      "label": "What else is on around the Bay",
+      "url": "https://www.unabulla.com/sf",
+      "icon": "calendar"
+    }
+  ],
+  "otherGroups": [
+    {
+      "name": "Rueda con Ritmo",
+      "note": "Rueda classes and socials across the Bay",
+      "url": "https://www.ruedaconritmo.com/"
+    },
+    {
+      "name": "Salsa Vale Todo",
+      "note": "Cuban dance classes, a short hop away",
+      "url": "https://www.salsavaletodo.com/"
+    },
+    {
+      "name": "una bulla",
+      "note": "The calendar that keeps us all in the loop",
+      "url": "https://www.unabulla.com"
+    }
+  ],
+  "videoSources": [
+    {
+      "name": "rueda.casino",
+      "note": "100+ figure tutorials, sorted by level",
+      "url": "https://www.youtube.com/@ruedacasino/videos"
+    },
+    {
+      "name": "DanceInTime (Barb)",
+      "note": "Walkthroughs of named moves, plus a written manual",
+      "url": "https://danceintime.com/info/rueda-steps-manual"
+    },
+    {
+      "name": "ruedawiki.org",
+      "note": "A wiki page for nearly every figure",
+      "url": "https://ruedawiki.org/"
+    }
+  ],
+  "events": {
+    "googleCalendarId": "13666f5ed7134c3a92d71282131d0e6a4a93458f4d990169a0e39730d1c68cd6@group.calendar.google.com",
+    "sourceName": "una bulla",
+    "sourceUrl": "https://www.unabulla.com/sf",
+    "submitUrl": "https://www.unabulla.com/sf/new-event",
+    "staleAfterDays": 10
+  },
+  "weather": {
+    "enabled": true,
+    "note": "Open-Meteo, no API key needed. Set enabled=false to hide the outdoor forecast."
+  },
+  "advancedSignupUrl": "https://docs.google.com/spreadsheets/d/1ljE-TQppLWGz8msvA3OpJPObhOxAl-SmANqUPqYJrXM/edit?usp=sharing"
+}

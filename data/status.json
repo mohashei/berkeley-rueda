@@ -1,0 +1,5 @@
+{
+  "_readme": "Need to cancel, move the class, or tell everyone something? Add an entry to notices. date is YYYY-MM-DD in the group's timezone. state: 'cancelled' (big no-class card), 'moved' or 'note' (a friendly heads-up above the schedule). Old entries are ignored — delete them whenever you like.",
+  "updated": "2026-11-07",
+  "notices": []
+}

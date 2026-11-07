@@ -1,0 +1,926 @@
+{
+ "generated": "2026-11-07T22:27:58.953Z",
+ "timezone": "America/Los_Angeles",
+ "windowDays": 70,
+ "source": "una bulla",
+ "sourceUrl": "https://www.unabulla.com/sf",
+ "count": 53,
+ "events": [
+  {
+   "id": "im2kcabkipc82dtsi7dk5gqrnc@google.com-1794193200000",
+   "start": "2026-11-09T03:00:00.000Z",
+   "end": "2026-11-09T07:00:00.000Z",
+   "allDay": false,
+   "title": "Cali's Pachanguero Salsa Sunday",
+   "rawTitle": "[EB: 💃🏽🪗] Cali's Pachanguero Salsa Sunday",
+   "region": "East Bay",
+   "price": null,
+   "location": "Cali's Sports Bar and Kitchen, 2367 Telegraph Ave, Berkeley, CA 94704",
+   "notes": "• Salsa Sunday with live music by Alberto y Su grupo La Diferencia plus DJs Walt Digz and DJ Mayky — salsa, bachata, merengue, cumbia\n• 21+ with valid ID\n• Source: https://www.instagram.com/p/DfXiO-Rp8rZ/ | @anejoprod @djmaykybayarea",
+   "url": "https://www.instagram.com/p/DfXiO-Rp8rZ/",
+   "recurring": false,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1794459600000",
+   "start": "2026-11-12T05:00:00.000Z",
+   "end": "2026-11-12T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1794542400000",
+   "start": "2026-11-13T04:00:00.000Z",
+   "end": "2026-11-13T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1794549600000",
+   "start": "2026-11-13T06:00:00.000Z",
+   "end": "2026-11-13T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "dubons13c1pkeaghp5mfks4h78@google.com-1794630600000",
+   "start": "2026-11-14T04:30:00.000Z",
+   "end": "2026-11-14T06:00:00.000Z",
+   "allDay": false,
+   "title": "Una Noche de Son Cubano: Son Chévere",
+   "rawTitle": "[SF: 💃🏽🪘] Una Noche de Son Cubano: Son Chévere ($10-20)",
+   "region": "San Francisco",
+   "price": "$10-20",
+   "location": "Mission Neighborhood Center, 362 Capp St, San Francisco, CA 94110",
+   "notes": "• Dance party with live band Son Chévere after classes — 8:30pm (special Son Cubano dance workshop right before)\n• Classes 6–8:15pm (all levels); party free with any class, otherwise $10–20 sliding (cash or Venmo)\n• Source: https://www.ruedaconritmo.com/events/2026/11/13/chevere — Rueda Con Ritmo (@ruedaconritmo)",
+   "url": "https://www.ruedaconritmo.com/events/2026/11/13/chevere",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "4picfrtq80qplbbcad77i5goq4@google.com-1794634200000",
+   "start": "2026-11-14T05:30:00.000Z",
+   "end": "2026-11-14T08:00:00.000Z",
+   "allDay": false,
+   "title": "Timba Underground",
+   "rawTitle": "[EB: 💃🏽] Timba Underground ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "507 55th St, Oakland, CA (EBCS, cross street Telegraph)",
+   "notes": "• Timba, salsa & reparto social — 7:30pm doors, 8:30pm casino/timba partnering class, 9:30pm party\n• Presented by @salsanick\n• Source: https://facebook.com/groups/svtstudents/permalink/28690281393932851/",
+   "url": "https://facebook.com/groups/svtstudents/permalink/28690281393932851/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "cuban"
+   ]
+  },
+  {
+   "id": "scf315sqjbjnb0macpgilk6b6s@google.com-1794709800000",
+   "start": "2026-11-15T02:30:00.000Z",
+   "end": "2026-11-15T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa Dance with Guajirón @ Sausalito Seahorse",
+   "rawTitle": "[Marin: 💃🏽🪘] Salsa Dance with Guajirón @ Sausalito Seahorse ($20)",
+   "region": "Marin",
+   "price": "$20",
+   "location": "Sausalito Seahorse, 305 Harbor Dr, Sausalito, CA",
+   "notes": "• Salsa dance night with live Cuban music by Guajirón\n• Tickets $20: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "7adecsfn68r8najqdovgq2cjlh_R20261019T000000@google.com-1794790800000",
+   "start": "2026-11-16T01:00:00.000Z",
+   "end": "2026-11-16T06:00:00.000Z",
+   "allDay": false,
+   "title": "TUMBAO w/ DJ JuanLove",
+   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
+   "notes": "TUMBAO with DJ JuanLove (https://www.instagram.com/djjuanloveoakland/)\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
+   "url": "https://www.instagram.com/djjuanloveoakland/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1795064400000",
+   "start": "2026-11-19T05:00:00.000Z",
+   "end": "2026-11-19T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1795147200000",
+   "start": "2026-11-20T04:00:00.000Z",
+   "end": "2026-11-20T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1795154400000",
+   "start": "2026-11-20T06:00:00.000Z",
+   "end": "2026-11-20T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "2a05u8kflvqaprc9ga00m683v5@google.com-1795234500000",
+   "start": "2026-11-21T04:15:00.000Z",
+   "end": "2026-11-21T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Mars Bar",
+   "rawTitle": "[SF: 💃🏽] RCR Mars Bar ($5-10)",
+   "region": "San Francisco",
+   "price": "$5-10",
+   "location": "Mars Bar & Restaurant, 798 Brannan St, San Francisco, CA 94103, USA",
+   "notes": "6:00 - 7:00pm Cuban Salsa & Rueda (Level 1, 3)\n7:15 - 8:15pm Cuban Salsa & Rueda (Level 2, 3-4)\n8:15pm-11pm Open dancing with DJ Ritmo\nhttps://www.ruedaconritmo.com/events",
+   "url": "https://www.ruedaconritmo.com/events",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "0dtj9ctg8srovm643gpu1qt46k@google.com-1795395600000",
+   "start": "2026-11-23T01:00:00.000Z",
+   "end": "2026-11-23T06:00:00.000Z",
+   "allDay": false,
+   "title": "TUMBAO w/ DJ JuanLove",
+   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Mad Oak Bar 'N' Yard, 135 12th St, Oakland, CA 94607, USA",
+   "notes": "TUMBAO with DJ JuanLove\n\n• 4-5pm ($15 includes party) — Salsa Rueda Class with Pablo Dinámico\n• 5-10pm ($10) — TUMBAO Dance Party with DJ JuanLove: Cuban salsa/timba + reparto sets\n• Source: https://www.instagram.com/reel/De1qZkvPBA4/ (@djjuanloveoakland, November 2026 gigs)",
+   "url": "https://www.instagram.com/reel/De1qZkvPBA4/",
+   "recurring": false,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1795669200000",
+   "start": "2026-11-26T05:00:00.000Z",
+   "end": "2026-11-26T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1795752000000",
+   "start": "2026-11-27T04:00:00.000Z",
+   "end": "2026-11-27T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1795759200000",
+   "start": "2026-11-27T06:00:00.000Z",
+   "end": "2026-11-27T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "5u425p3huisrbepni6d1k1tscj@google.com-1795845600000",
+   "start": "2026-11-28T06:00:00.000Z",
+   "end": "2026-11-28T08:00:00.000Z",
+   "allDay": false,
+   "title": "LA-TROPICAL",
+   "rawTitle": "[SF: 💃🏽] LA-TROPICAL ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Il Pirata",
+   "notes": "**Ends 2am**\nTimba y Reggaeton Cubano with DJ WaltDigz & DJ Dark Rum\nhttps://www.instagram.com/anejoprod",
+   "url": "https://www.instagram.com/anejoprod",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1796000400000",
+   "start": "2026-11-30T01:00:00.000Z",
+   "end": "2026-11-30T06:00:00.000Z",
+   "allDay": false,
+   "title": "TUMBAO w/ DJ JuanLove",
+   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
+   "notes": "TUMBAO with DJ JuanLove\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
+   "url": null,
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "ridkni1n2ajr6qnp9e989rgk6c@google.com-1796007600000",
+   "start": "2026-11-30T03:00:00.000Z",
+   "end": "2026-11-30T06:30:00.000Z",
+   "allDay": false,
+   "title": "Candela + RCR in Berkeley",
+   "rawTitle": "[EB: 💃🏽🪘] Candela + RCR in Berkeley",
+   "region": "East Bay",
+   "price": null,
+   "location": "Freight & Salvage, 2020 Addison St, Berkeley, CA 94704",
+   "notes": "• Edgardo & Candela 40th Anniversary — Bay Area salsa legends live at Freight & Salvage, open dance floor\n• RCR dance class 6:10–6:55pm before the show; RCR debuts a new choreography performed live with the band\n• Tickets via Freight & Salvage — code RUEDA5 saves $10 and supports RCR; advance purchase recommended (may sell out)\n• Source: https://www.ruedaconritmo.com/events/2026/11/29/candela",
+   "url": "https://www.ruedaconritmo.com/events/2026/11/29/candela",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "hgnv7lj4ul1h5u1a2rflu1sno0@google.com-1796009400000",
+   "start": "2026-11-30T03:30:00.000Z",
+   "end": "2026-11-30T06:30:00.000Z",
+   "allDay": false,
+   "title": "Guajirón Cuban Jam @ Boom Boom Room (Free)",
+   "rawTitle": "[SF: 💃🏽🪘] Guajirón Cuban Jam @ Boom Boom Room (Free)",
+   "region": "San Francisco",
+   "price": null,
+   "location": "Boom Boom Room, 1601 Fillmore St, San Francisco, CA",
+   "notes": "• \"Come dance salsa with Guajirón\" — live Cuban jam\n• Free, RSVP: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live",
+    "cuban"
+   ]
+  },
+  {
+   "id": "77vdsqths9lmsb761jala1d380@google.com-1796270400000",
+   "start": "2026-12-03T04:00:00.000Z",
+   "end": "2026-12-03T08:00:00.000Z",
+   "allDay": false,
+   "title": "Guajirón @ Blondie's Bar (Free)",
+   "rawTitle": "[SF: 💃🏽🪘] Guajirón @ Blondie's Bar (Free)",
+   "region": "San Francisco",
+   "price": null,
+   "location": "Blondie's Bar, 540 Valencia St, San Francisco, CA",
+   "notes": "**Ends 1a**\n• Guajirón plays Blondie's — first-Wednesday monthly series\n• Free: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1796274000000",
+   "start": "2026-12-03T05:00:00.000Z",
+   "end": "2026-12-03T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1796356800000",
+   "start": "2026-12-04T04:00:00.000Z",
+   "end": "2026-12-04T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1796364000000",
+   "start": "2026-12-04T06:00:00.000Z",
+   "end": "2026-12-04T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "fc8kq2sno897mrdh9jj0gj9mog_R20250202T000000@google.com-1796515200000",
+   "start": "2026-12-06T00:00:00.000Z",
+   "end": "2026-12-06T07:00:00.000Z",
+   "allDay": false,
+   "title": "MAPP Bi-monthly",
+   "rawTitle": "[SF: 🥁 🎭 ✊🏽] MAPP Bi-monthly ($Donation)",
+   "region": "San Francisco",
+   "price": "$Donation",
+   "location": "Mission Neighborhood, SF",
+   "notes": "Every 2 months, 1st saturday, multiple locations in the mission. details on FB/insta socials. https://mappsf.com/events",
+   "url": "https://mappsf.com/events",
+   "recurring": true,
+   "tags": [
+    "live",
+    "cause"
+   ]
+  },
+  {
+   "id": "24k6kneucno280bqv5j15edlsv_R20250202T040000@google.com-1796529600000",
+   "start": "2026-12-06T04:00:00.000Z",
+   "end": "2026-12-06T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Monthly Party",
+   "rawTitle": "[EB: 💃🏽🪘🎭] RCR Monthly Party ($10-20)",
+   "region": "East Bay",
+   "price": "$10-20",
+   "location": "Lake Merritt Dance Center at Veteran's Memorial Building",
+   "notes": "First Saturday of every month\n\nCheck https://www.ruedaconritmo.com/events for details",
+   "url": "https://www.ruedaconritmo.com/events",
+   "recurring": true,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1796878800000",
+   "start": "2026-12-10T05:00:00.000Z",
+   "end": "2026-12-10T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1796961600000",
+   "start": "2026-12-11T04:00:00.000Z",
+   "end": "2026-12-11T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1796968800000",
+   "start": "2026-12-11T06:00:00.000Z",
+   "end": "2026-12-11T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1797483600000",
+   "start": "2026-12-17T05:00:00.000Z",
+   "end": "2026-12-17T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1797566400000",
+   "start": "2026-12-18T04:00:00.000Z",
+   "end": "2026-12-18T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1797573600000",
+   "start": "2026-12-18T06:00:00.000Z",
+   "end": "2026-12-18T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "2a05u8kflvqaprc9ga00m683v5@google.com-1797653700000",
+   "start": "2026-12-19T04:15:00.000Z",
+   "end": "2026-12-19T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Mars Bar",
+   "rawTitle": "[SF: 💃🏽] RCR Mars Bar ($5-10)",
+   "region": "San Francisco",
+   "price": "$5-10",
+   "location": "Mars Bar & Restaurant, 798 Brannan St, San Francisco, CA 94103, USA",
+   "notes": "6:00 - 7:00pm Cuban Salsa & Rueda (Level 1, 3)\n7:15 - 8:15pm Cuban Salsa & Rueda (Level 2, 3-4)\n8:15pm-11pm Open dancing with DJ Ritmo\nhttps://www.ruedaconritmo.com/events",
+   "url": "https://www.ruedaconritmo.com/events",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "7adecsfn68r8najqdovgq2cjlh_R20261019T000000@google.com-1797814800000",
+   "start": "2026-12-21T01:00:00.000Z",
+   "end": "2026-12-21T06:00:00.000Z",
+   "allDay": false,
+   "title": "TUMBAO w/ DJ JuanLove",
+   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
+   "notes": "TUMBAO with DJ JuanLove (https://www.instagram.com/djjuanloveoakland/)\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
+   "url": "https://www.instagram.com/djjuanloveoakland/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1798088400000",
+   "start": "2026-12-24T05:00:00.000Z",
+   "end": "2026-12-24T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1798171200000",
+   "start": "2026-12-25T04:00:00.000Z",
+   "end": "2026-12-25T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1798178400000",
+   "start": "2026-12-25T06:00:00.000Z",
+   "end": "2026-12-25T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "5u425p3huisrbepni6d1k1tscj@google.com-1798264800000",
+   "start": "2026-12-26T06:00:00.000Z",
+   "end": "2026-12-26T08:00:00.000Z",
+   "allDay": false,
+   "title": "LA-TROPICAL",
+   "rawTitle": "[SF: 💃🏽] LA-TROPICAL ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Il Pirata",
+   "notes": "**Ends 2am**\nTimba y Reggaeton Cubano with DJ WaltDigz & DJ Dark Rum\nhttps://www.instagram.com/anejoprod",
+   "url": "https://www.instagram.com/anejoprod",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1798419600000",
+   "start": "2026-12-28T01:00:00.000Z",
+   "end": "2026-12-28T06:00:00.000Z",
+   "allDay": false,
+   "title": "TUMBAO w/ DJ JuanLove",
+   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
+   "notes": "TUMBAO with DJ JuanLove\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
+   "url": null,
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "mi52kckal6s7tcvmntm175d7a4@google.com-1798428600000",
+   "start": "2026-12-28T03:30:00.000Z",
+   "end": "2026-12-28T06:30:00.000Z",
+   "allDay": false,
+   "title": "Guajirón Cuban Jam @ Boom Boom Room (Free)",
+   "rawTitle": "[SF: 💃🏽🪘] Guajirón Cuban Jam @ Boom Boom Room (Free)",
+   "region": "San Francisco",
+   "price": null,
+   "location": "Boom Boom Room, 1601 Fillmore St, San Francisco, CA",
+   "notes": "• \"Come dance salsa with Guajirón\" — live Cuban jam\n• Free, RSVP: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live",
+    "cuban"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1798693200000",
+   "start": "2026-12-31T05:00:00.000Z",
+   "end": "2026-12-31T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1798776000000",
+   "start": "2027-01-01T04:00:00.000Z",
+   "end": "2027-01-01T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1798783200000",
+   "start": "2027-01-01T06:00:00.000Z",
+   "end": "2027-01-01T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "24k6kneucno280bqv5j15edlsv_R20250202T040000@google.com-1798948800000",
+   "start": "2027-01-03T04:00:00.000Z",
+   "end": "2027-01-03T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Monthly Party",
+   "rawTitle": "[EB: 💃🏽🪘🎭] RCR Monthly Party ($10-20)",
+   "region": "East Bay",
+   "price": "$10-20",
+   "location": "Lake Merritt Dance Center at Veteran's Memorial Building",
+   "notes": "First Saturday of every month\n\nCheck https://www.ruedaconritmo.com/events for details",
+   "url": "https://www.ruedaconritmo.com/events",
+   "recurring": true,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "qquh96mhpq5ceogfblh8u8q6g8@google.com-1799294400000",
+   "start": "2027-01-07T04:00:00.000Z",
+   "end": "2027-01-07T08:00:00.000Z",
+   "allDay": false,
+   "title": "Guajirón @ Blondie's Bar (Free)",
+   "rawTitle": "[SF: 💃🏽🪘] Guajirón @ Blondie's Bar (Free)",
+   "region": "San Francisco",
+   "price": null,
+   "location": "Blondie's Bar, 540 Valencia St, San Francisco, CA",
+   "notes": "• Guajirón plays Blondie's — first-Wednesday monthly series\n• Free: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1799298000000",
+   "start": "2027-01-07T05:00:00.000Z",
+   "end": "2027-01-07T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1799380800000",
+   "start": "2027-01-08T04:00:00.000Z",
+   "end": "2027-01-08T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1799388000000",
+   "start": "2027-01-08T06:00:00.000Z",
+   "end": "2027-01-08T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1799902800000",
+   "start": "2027-01-14T05:00:00.000Z",
+   "end": "2027-01-14T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1799985600000",
+   "start": "2027-01-15T04:00:00.000Z",
+   "end": "2027-01-15T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1799992800000",
+   "start": "2027-01-15T06:00:00.000Z",
+   "end": "2027-01-15T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "d8ah4gmqrhmvmmj43f19f6e6ug@google.com-1800072000000",
+   "start": "2027-01-16T04:00:00.000Z",
+   "end": "2027-01-16T06:00:00.000Z",
+   "allDay": false,
+   "title": "Rueda - Con Ritmo w/ Guajirón",
+   "rawTitle": "[SF: 💃🏽🪘] Rueda - Con Ritmo w/ Guajirón ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Mission Neighborhood Centers, 362 Capp St, San Francisco, CA",
+   "notes": "• Rueda de casino social dance with live Cuban music by Guajirón\n• $10 cover\n• Details: https://guajiron.com/shows/rueda-con-ritmo-2027-01-15/ | IG: https://www.instagram.com/guajironmusic/",
+   "url": "https://guajiron.com/shows/rueda-con-ritmo-2027-01-15/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live",
+    "cuban"
+   ]
+  },
+  {
+   "id": "2a05u8kflvqaprc9ga00m683v5@google.com-1800072900000",
+   "start": "2027-01-16T04:15:00.000Z",
+   "end": "2027-01-16T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Mars Bar",
+   "rawTitle": "[SF: 💃🏽] RCR Mars Bar ($5-10)",
+   "region": "San Francisco",
+   "price": "$5-10",
+   "location": "Mars Bar & Restaurant, 798 Brannan St, San Francisco, CA 94103, USA",
+   "notes": "6:00 - 7:00pm Cuban Salsa & Rueda (Level 1, 3)\n7:15 - 8:15pm Cuban Salsa & Rueda (Level 2, 3-4)\n8:15pm-11pm Open dancing with DJ Ritmo\nhttps://www.ruedaconritmo.com/events",
+   "url": "https://www.ruedaconritmo.com/events",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  }
+ ]
+}

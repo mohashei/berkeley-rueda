@@ -1,0 +1,51 @@
+{
+  "name": "Berkeley Rueda de Casino",
+  "short_name": "Rueda",
+  "description": "Everything for the Berkeley Rueda de Casino group: when we're dancing, where, the moves we teach, and what else is on around the Bay.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff9f4",
+  "theme_color": "#fff9f4",
+  "categories": [
+    "education",
+    "lifestyle",
+    "sports"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icons/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Our moves",
+      "url": "./#moves"
+    },
+    {
+      "name": "Out dancing",
+      "url": "./#events"
+    }
+  ]
+}

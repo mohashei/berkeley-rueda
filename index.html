@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Berkeley Rueda</title>
+<meta name="description" content="Everything for the Berkeley Rueda de Casino group: when we're dancing, where, the moves we teach, and what else is on around the Bay.">
+<meta name="theme-color" content="#fff9f4" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#fff9f4" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Rueda">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 48 48" aria-hidden="true">
+        <circle cx="24" cy="24" r="17" fill="none" stroke="currentColor" stroke-width="2" stroke-dasharray="3 5" opacity=".5"/>
+        <g fill="currentColor">
+          <circle cx="24" cy="5.5" r="4"/><circle cx="37.5" cy="12.5" r="4"/>
+          <circle cx="42.5" cy="26" r="4"/><circle cx="33" cy="38" r="4"/>
+          <circle cx="15" cy="38" r="4"/><circle cx="5.5" cy="26" r="4"/>
+          <circle cx="10.5" cy="12.5" r="4"/>
+        </g>
+      </svg>
+      <span class="brand-text">
+        <strong id="brandName">Berkeley Rueda</strong>
+        <small id="brandTag">de Casino</small>
+      </span>
+    </div>
+    <button id="themeBtn" class="icon-btn" type="button" aria-label="Switch colour theme" title="Switch colour theme">
+      <svg viewBox="0 0 24 24" aria-hidden="true" width="20" height="20"><path d="M12 3v2m0 14v2M3 12h2m14 0h2M5.6 5.6l1.4 1.4m10 10 1.4 1.4m0-12.8-1.4 1.4m-10 10L5.6 18.4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" fill="none"/><circle cx="12" cy="12" r="4" fill="currentColor"/></svg>
+    </button>
+  </div>
+</header>
+
+<main id="main">
+  <!-- ───────────────────────────────── TONIGHT ───────────────────────────── -->
+  <section class="view" id="view-now" aria-labelledby="h-now">
+    <h1 class="sr-only" id="h-now">Tonight</h1>
+    <div id="statusCard" class="card status" aria-live="polite">
+      <div class="skeleton-line w60"></div><div class="skeleton-line w40"></div>
+    </div>
+    <div id="noticeSlot"></div>
+    <div id="weatherCard"></div>
+    <div id="timelineCard"></div>
+    <div id="placeCard"></div>
+    <div id="tonightEvents"></div>
+  </section>
+
+  <!-- ─────────────────────────────────── MOVES ───────────────────────────── -->
+  <section class="view" id="view-moves" hidden aria-labelledby="h-moves">
+    <div class="view-head">
+      <h1 id="h-moves">Our moves</h1>
+      <p class="muted">Everything we teach, with the notes from class. Tap any move to read it or watch someone dance it.</p>
+      <p class="muted small" id="movesCount"></p>
+    </div>
+
+    <div class="searchrow">
+      <svg class="searchicon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/><path d="m16.5 16.5 4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <input id="moveSearch" type="search" placeholder="Look up a move — try setenta" autocomplete="off" aria-label="Search moves">
+      <button id="searchClear" class="chip ghost" type="button" hidden>Clear</button>
+    </div>
+
+    <div class="segmented" role="tablist" aria-label="Level">
+      <button role="tab" class="seg" data-level="beginner">Beginner</button>
+      <button role="tab" class="seg" data-level="intermediate">Interm.</button>
+      <button role="tab" class="seg" data-level="advanced">Advanced</button>
+      <button role="tab" class="seg is-on" data-level="all" aria-selected="true">All</button>
+    </div>
+
+    <div class="chiprow" id="moveFilters">
+      <button class="chip" data-filter="unlearned" type="button">Still learning</button>
+      <button class="chip" data-filter="learned" type="button">Got it</button>
+      <button class="chip" data-filter="video" type="button">Has a video</button>
+    </div>
+
+    <div id="progressCard"></div>
+    <div id="movesList" class="stack"></div>
+  </section>
+
+  <!-- ─────────────────────────────────── EVENTS ──────────────────────────── -->
+  <section class="view" id="view-events" hidden aria-labelledby="h-events">
+    <div class="view-head">
+      <h1 id="h-events">Out dancing</h1>
+      <p class="muted">Socials, live bands and classes around the Bay — plenty of places to use what you learned on Thursday.</p>
+      <p class="muted small" id="eventsMeta"></p>
+    </div>
+    <div class="chiprow" id="eventFilters">
+      <button class="chip is-on" data-ev="all" type="button">Everything</button>
+      <button class="chip" data-ev="week" type="button">This week</button>
+      <button class="chip" data-ev="East Bay" type="button">East Bay</button>
+      <button class="chip" data-ev="San Francisco" type="button">SF</button>
+      <button class="chip" data-ev="free" type="button">Free</button>
+      <button class="chip" data-ev="live" type="button">Live music</button>
+      <button class="chip" data-ev="cuban" type="button">Cuban / rueda</button>
+    </div>
+    <div id="eventsList" class="stack"></div>
+    <div id="eventsFoot"></div>
+  </section>
+
+  <!-- ──────────────────────────────────── INFO ───────────────────────────── -->
+  <section class="view" id="view-info" hidden aria-labelledby="h-info">
+    <div class="view-head">
+      <h1 id="h-info">Welcome</h1>
+      <p class="muted">New here? This page has everything you need — and the answer is yes, you can just show up.</p>
+    </div>
+    <div id="infoBody" class="stack"></div>
+  </section>
+</main>
+
+<nav class="tabbar" aria-label="Sections">
+  <button class="tab is-on" data-view="now" aria-current="page">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 7v5l3 2" stroke="currentColor" stroke-width="2" stroke-linecap="round" fill="none"/><circle cx="12" cy="12" r="9" stroke="currentColor" stroke-width="2" fill="none"/></svg>
+    <span>Tonight</span>
+  </button>
+  <button class="tab" data-view="moves">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8.5" stroke="currentColor" stroke-width="2" fill="none" stroke-dasharray="2 3.4"/><circle cx="12" cy="12" r="2.6" fill="currentColor"/></svg>
+    <span>Moves</span>
+  </button>
+  <button class="tab" data-view="events">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="3" stroke="currentColor" stroke-width="2" fill="none"/><path d="M3.5 10h17M8 3.5v3M16 3.5v3" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+    <span>Dancing</span>
+  </button>
+  <button class="tab" data-view="info">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20s-7-4.4-7-9.2A4.1 4.1 0 0 1 12 8a4.1 4.1 0 0 1 7 2.8C19 15.6 12 20 12 20z" stroke="currentColor" stroke-width="2" fill="none" stroke-linejoin="round"/></svg>
+    <span>Welcome</span>
+  </button>
+</nav>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+
+<script src="app.js" type="module"></script>
+</body>
+</html>
