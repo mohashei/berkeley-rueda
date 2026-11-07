@@ -222,6 +222,10 @@ function upcomingSessions(now = Date.now(), days = 14) {
 
 const noticeFor = (date) => state.notices.find((n) => n.date === date) || null;
 
+/** The group's WhatsApp invite, if one is set in config.links. */
+const chatUrl = () =>
+  state.cfg?.links?.find((l) => /whatsapp/i.test(`${l.url} ${l.label}`))?.url || null;
+
 /* ───────────────────────────────── TONIGHT ────────────────────────────── */
 
 function renderNow() {
@@ -304,18 +308,26 @@ function renderNow() {
 
   // ── where ──
   const loc = state.cfg.location;
+  const after = state.cfg.schedule.find((s) => s.mapsUrl);
   $("#placeCard").innerHTML = card(`
     <h2 class="card-h">Find us here</h2>
     <div class="tl-t">${h(loc.name)}</div>
     <p class="status-sub" style="margin-top:4px">${h(loc.detail || "")}</p>
     <div class="ev-actions" style="margin-top:11px">
       <a class="btn primary" href="${h(loc.mapsUrl)}" target="_blank" rel="noopener">Show me on a map</a>
-      ${
-        state.cfg.schedule.find((s) => s.mapsUrl)
-          ? `<a class="btn" href="${h(state.cfg.schedule.find((s) => s.mapsUrl).mapsUrl)}" target="_blank" rel="noopener">Where we go after</a>`
-          : ""
-      }
-    </div>`);
+      ${after ? `<a class="btn" href="${h(after.mapsUrl)}" target="_blank" rel="noopener">Where we go after</a>` : ""}
+    </div>`) +
+    (chatUrl()
+      ? card(`
+        <h2 class="card-h">Say hello</h2>
+        <p class="status-sub">Questions, a lift, or just want to know if anyone else is going? The WhatsApp group is where we sort all that out — and it's where we post if class is ever off.</p>
+        <div class="ev-actions" style="margin-top:12px">
+          <a class="btn primary" href="${h(chatUrl())}" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M20 11.8a8 8 0 0 1-11.9 7L4 20l1.3-3.9A8 8 0 1 1 20 11.8z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></svg>
+            Join the WhatsApp group
+          </a>
+        </div>`)
+      : "");
 
   // ── other dancing tonight ──
   const todayKey = wall(now).date;
@@ -401,7 +413,9 @@ function renderWeatherCard() {
     </div>
     ${
       wet
-        ? `<p class="status-sub" style="margin-top:11px"><strong>Rain looks likely</strong> — we dance outside, so keep an eye on the WhatsApp group in case we call it off.</p>`
+        ? `<p class="status-sub" style="margin-top:11px"><strong>Rain looks likely</strong> — we dance outside, so keep an eye on ${
+            chatUrl() ? `<a href="${h(chatUrl())}" target="_blank" rel="noopener">the WhatsApp group</a>` : "the WhatsApp group"
+          } in case we call it off.</p>`
         : chilly
         ? `<p class="status-sub" style="margin-top:11px">Bring a layer — it gets chilly once the sun goes down.</p>`
         : ""
@@ -859,22 +873,6 @@ function renderInfo() {
       </div>`)}
 
     ${card(`
-      <h2 class="card-h">For whoever's running the group</h2>
-      <div class="prose"><p>Need to cancel, move the class or say something to everyone? Fill this in, copy it, and paste it into <code>data/status.json</code>.</p></div>
-      <label class="field"><span class="field-l">Which day?</span><input id="ovDate" type="date"></label>
-      <label class="field"><span class="field-l">What's happening?</span>
-        <select id="ovState">
-          <option value="cancelled">No class that day</option>
-          <option value="moved">Moved somewhere else</option>
-          <option value="note">Just an announcement</option>
-        </select></label>
-      <label class="field"><span class="field-l">Headline</span><input id="ovTitle" type="search" placeholder="No class tonight — rain"></label>
-      <label class="field"><span class="field-l">A friendly note</span><input id="ovNote" type="search" placeholder="See you next week!"></label>
-      <div class="ev-actions"><button class="btn primary" id="ovCopy" type="button">Copy it</button>
-      ${repoEditUrl() ? `<a class="btn" href="${h(repoEditUrl())}" target="_blank" rel="noopener">Edit status.json</a>` : ""}</div>
-      <pre id="ovOut" class="ev-notes" style="overflow:auto;margin-top:11px;font-size:12px"></pre>`)}
-
-    ${card(`
       <h2 class="card-h">Thank yous</h2>
       <div class="prose">
         <p>The moves and levels here come straight from the group's own <a href="${h(
@@ -885,40 +883,11 @@ function renderInfo() {
       <div class="ev-actions"><button class="btn ghost" id="wipeBtn" type="button">Clear my ticks</button></div>`)}
   `;
 
-  const d = new Date();
-  $("#ovDate").value = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`;
-  const build = () => {
-    const o = {
-      date: $("#ovDate").value,
-      state: $("#ovState").value,
-      title: $("#ovTitle").value || ($("#ovState").value === "cancelled" ? "No class this week" : "Heads up"),
-      note: $("#ovNote").value || "",
-    };
-    $("#ovOut").textContent = JSON.stringify(o, null, 2);
-    return o;
-  };
-  ["ovDate", "ovState", "ovTitle", "ovNote"].forEach((id) =>
-    $(`#${id}`).addEventListener("input", build)
-  );
-  build();
-  $("#ovCopy").addEventListener("click", async () => {
-    const txt = JSON.stringify(build(), null, 2);
-    try { await navigator.clipboard.writeText(txt); toast("Copied — paste it into data/status.json"); }
-    catch { toast("Select the text below and copy it"); }
-  });
   $("#wipeBtn").addEventListener("click", () => {
     learned.clear(); syncSets();
     toast("All reset — fresh start");
     renderMoves();
   });
-}
-
-function repoEditUrl() {
-  const m = /^([^.]+)\.github\.io$/.exec(location.hostname);
-  if (!m) return null;
-  const seg = location.pathname.split("/").filter(Boolean)[0];
-  const repo = seg || `${m[1]}.github.io`;
-  return `https://github.com/${m[1]}/${repo}/edit/main/data/status.json`;
 }
 
 /* ──────────────────────────────── start-up ────────────────────────────── */

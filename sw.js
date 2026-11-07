@@ -3,7 +3,7 @@
    Shell files are cached on install; data files are fetched fresh when possible
    and served from cache when not. */
 
-const VERSION = "rueda-v2";
+const VERSION = "rueda-v3";
 const SHELL = [
   ".", "index.html", "app.css", "app.js",
   "manifest.webmanifest", "icons/favicon.svg", "icons/apple-touch-icon.png",
