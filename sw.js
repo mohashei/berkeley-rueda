@@ -7,7 +7,7 @@
    wouldn't show up until someone opened the app twice. Being right matters
    more here than saving 50ms on a 60KB page. */
 
-const VERSION = "rueda-v4";
+const VERSION = "rueda-v5";
 const SHELL = [
   ".", "index.html", "app.css", "app.js",
   "manifest.webmanifest", "icons/favicon.svg", "icons/apple-touch-icon.png",
