@@ -1,0 +1,44 @@
+name: Refresh Bay Area events
+
+# Pulls the public una bulla calendar every morning and commits the result, so
+# the app ships a fresh, CORS-free, offline-capable snapshot of what's on.
+on:
+  schedule:
+    - cron: "17 13 * * *"   # 13:17 UTC ≈ 5:17am Pacific, daily
+  workflow_dispatch:         # ...or run it by hand from the Actions tab
+  push:
+    paths:
+      - "scripts/fetch-events.mjs"
+      - "data/config.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: events
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch and expand the calendar
+        run: node scripts/fetch-events.mjs --days 70
+
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet -- data/events.json; then
+            echo "No calendar changes."
+            exit 0
+          fi
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/events.json
+          git commit -m "Refresh events ($(date -u +%Y-%m-%d))"
+          git push
