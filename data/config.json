@@ -101,6 +101,15 @@
     "submitUrl": "https://www.unabulla.com/sf/new-event",
     "staleAfterDays": 10
   },
+  "whatToWear": {
+    "intro": "We're outdoors on the lawn, and we dance on the concrete path beside it — so:",
+    "tips": [
+      "Comfortable, flat shoes you can pivot in. Trainers with a smooth sole are perfect. Concrete is hard on knees and unkind to thin heels.",
+      "Dress for the weather rather than for a dance floor — check the forecast above.",
+      "Layers you can peel off. You'll warm up fast, then cool down just as fast once the sun goes.",
+      "Something you don't mind sweating in. Bring water."
+    ]
+  },
   "weather": {
     "enabled": true,
     "note": "Open-Meteo, no API key needed. Set enabled=false to hide the outdoor forecast."

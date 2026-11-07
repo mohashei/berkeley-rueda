@@ -341,6 +341,22 @@ function renderNow() {
     : "";
 
   renderWeatherCard();
+  renderWearCard();
+}
+
+/** Standing advice for a class held outdoors, on concrete. */
+function renderWearCard() {
+  const w = state.cfg?.whatToWear;
+  const slot = $("#wearCard");
+  if (!slot) return;
+  if (!w?.tips?.length) { slot.innerHTML = ""; return; }
+  slot.innerHTML = card(`
+    <h2 class="card-h">What to wear</h2>
+    <div class="prose">
+      ${w.intro ? `<p>${h(w.intro)}</p>` : ""}
+      <ul>${w.tips.map((t) => `<li>${h(t)}</li>`).join("")}</ul>
+      <p class="small">First time? Honestly, just come as you are — nobody is dressed up.</p>
+    </div>`);
 }
 
 const parseKey = (k) => {
@@ -403,7 +419,10 @@ function renderWeatherCard() {
   const wet = pop >= 40 || (code >= 51 && code <= 99);
   const chilly = t <= 52;
   slot.innerHTML = card(`
-    <h2 class="card-h">What to wear · ${h(fmtTime(outdoor.startMs))}</h2>
+    <h2 class="card-h">Weather at the next class</h2>
+    <p class="status-sub" style="margin:-4px 0 11px">${h(
+      wall(Date.now()).date === outdoor.date ? "Today" : fmtDay(outdoor.startMs)
+    )} at ${h(fmtTime(outdoor.startMs))}</p>
     <div class="wx">
       <div style="font-size:34px;line-height:1">${icon}</div>
       <div>
