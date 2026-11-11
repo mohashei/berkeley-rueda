@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T20:28:29.600Z",
+ "generated": "2026-11-11T20:12:45.388Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
@@ -94,8 +94,8 @@
    ]
   },
   {
-   "id": "scf315sqjbjnb0macpgilk6b6s@google.com-1794709800000",
-   "start": "2026-11-15T02:30:00.000Z",
+   "id": "scf315sqjbjnb0macpgilk6b6s@google.com-1794715200000",
+   "start": "2026-11-15T04:00:00.000Z",
    "end": "2026-11-15T06:00:00.000Z",
    "allDay": false,
    "title": "Salsa Dance with Guajirón @ Sausalito Seahorse",
@@ -103,7 +103,7 @@
    "region": "Marin",
    "price": "$20",
    "location": "Sausalito Seahorse, 305 Harbor Dr, Sausalito, CA",
-   "notes": "• Salsa dance night with live Cuban music by Guajirón\n• Tickets $20: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
+   "notes": "• Doors open 6:30pm for dinner; live music/dancing 8–10pm\n• Salsa dance night with live Cuban music by Guajirón\n• Tickets $20: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
    "url": "https://guajiron.com/shows/",
    "recurring": false,
    "tags": [
