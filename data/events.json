@@ -1,28 +1,11 @@
 {
- "generated": "2026-11-11T20:12:45.388Z",
+ "generated": "2026-11-12T20:50:07.567Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
  "count": 54,
  "events": [
-  {
-   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1794459600000",
-   "start": "2026-11-12T05:00:00.000Z",
-   "end": "2026-11-12T08:00:00.000Z",
-   "allDay": false,
-   "title": "El Timbon",
-   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
-   "region": "San Francisco",
-   "price": "$10",
-   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
-   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
-   "url": "https://www.instagram.com/waltdigz/",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1794542400000",
    "start": "2026-11-13T04:00:00.000Z",
@@ -282,17 +265,17 @@
    ]
   },
   {
-   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1796000400000",
-   "start": "2026-11-30T01:00:00.000Z",
-   "end": "2026-11-30T06:00:00.000Z",
+   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1795993200000",
+   "start": "2026-11-29T23:00:00.000Z",
+   "end": "2026-11-30T04:00:00.000Z",
    "allDay": false,
    "title": "TUMBAO w/ DJ JuanLove",
    "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
    "region": "East Bay",
    "price": "$10",
    "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
-   "notes": "TUMBAO with DJ JuanLove\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
-   "url": null,
+   "notes": "TUMBAO with DJ JuanLove — SPECIAL HOURS this Sunday due to a private event\n\n• 2-3pm ($15 includes party) — Salsa Rueda Class with Pablo Dinámico\n• 3-8pm ($10) — TUMBAO Dance Party with DJ JuanLove: Cuban salsa/timba + reparto sets\n\nSource: https://www.instagram.com/reel/Dfm5XMzvbhl/ (@djjuanloveoakland, November 2026 gigs)",
+   "url": "https://www.instagram.com/reel/Dfm5XMzvbhl/",
    "recurring": true,
    "tags": [
     "social"
@@ -934,6 +917,23 @@
    "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
    "notes": "TUMBAO with DJ JuanLove (https://www.instagram.com/djjuanloveoakland/)\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
    "url": "https://www.instagram.com/djjuanloveoakland/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1800507600000",
+   "start": "2027-01-21T05:00:00.000Z",
+   "end": "2027-01-21T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
    "recurring": true,
    "tags": [
     "social"
