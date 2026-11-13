@@ -1,45 +1,11 @@
 {
- "generated": "2026-11-12T20:50:07.567Z",
+ "generated": "2026-11-13T20:29:45.665Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
  "count": 54,
  "events": [
-  {
-   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1794542400000",
-   "start": "2026-11-13T04:00:00.000Z",
-   "end": "2026-11-13T06:00:00.000Z",
-   "allDay": false,
-   "title": "Salsa at Comal",
-   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
-   "region": "East Bay",
-   "price": "Free",
-   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
-   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
-   "url": "https://www.facebook.com/MundoMuzik/",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
-  {
-   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1794549600000",
-   "start": "2026-11-13T06:00:00.000Z",
-   "end": "2026-11-13T08:00:00.000Z",
-   "allDay": false,
-   "title": "AHÍ NAMA",
-   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
-   "region": "East Bay",
-   "price": "$10",
-   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
-   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
-   "url": "https://linktr.ee/AHINAMAOakland",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "dubons13c1pkeaghp5mfks4h78@google.com-1794630600000",
    "start": "2026-11-14T04:30:00.000Z",
@@ -50,7 +16,7 @@
    "region": "San Francisco",
    "price": "$10-20",
    "location": "Mission Neighborhood Center, 362 Capp St, San Francisco, CA 94110",
-   "notes": "• Dance party with live band Son Chévere after classes — 8:30pm (special Son Cubano dance workshop right before)\n• Classes 6–8:15pm (all levels); party free with any class, otherwise $10–20 sliding (cash or Venmo)\n• Source: https://www.ruedaconritmo.com/events/2026/11/13/chevere — Rueda Con Ritmo (@ruedaconritmo)",
+   "notes": "• Dance classes at 6:00pm and 7:15pm (all levels), then live music 8:30–10pm — Son Con Timba with Son Chévere\n• Tonight the band debuts a brand-new original song by band member Ryan\n• Party free with any class, otherwise $10–20 sliding (cash or Venmo)\n• Full night runs 6:00–10:00pm\n• Source: https://www.ruedaconritmo.com/events/2026/11/13/chevere — Rueda Con Ritmo (@ruedaconritmo)",
    "url": "https://www.ruedaconritmo.com/events/2026/11/13/chevere",
    "recurring": false,
    "tags": [
@@ -406,17 +372,17 @@
    ]
   },
   {
-   "id": "24k6kneucno280bqv5j15edlsv_R20250202T040000@google.com-1796529600000",
-   "start": "2026-12-06T04:00:00.000Z",
+   "id": "24k6kneucno280bqv5j15edlsv_R20250202T040000@google.com-1796531400000",
+   "start": "2026-12-06T04:30:00.000Z",
    "end": "2026-12-06T07:00:00.000Z",
    "allDay": false,
-   "title": "RCR Monthly Party",
-   "rawTitle": "[EB: 💃🏽🪘🎭] RCR Monthly Party ($10-20)",
+   "title": "RCR Holiday Party",
+   "rawTitle": "[EB: 💃🏽🪘🎭] RCR Holiday Party ($5-20)",
    "region": "East Bay",
-   "price": "$10-20",
+   "price": "$5-20",
    "location": "Lake Merritt Dance Center at Veteran's Memorial Building",
-   "notes": "First Saturday of every month\n\nCheck https://www.ruedaconritmo.com/events for details",
-   "url": "https://www.ruedaconritmo.com/events",
+   "notes": "RCR Annual Holiday Party — workshops, performances & social dancing\n\n• 5:00pm Rhythm & Listening workshop with Ryan (all levels)\n• 6:15pm Rueda Dinámica workshop with Or (Level 3+)\n• 7:30pm Beginning Salsa class + Cha-Cha-Chá workshop with Sidney\n• 8:30pm Social dancing with DJ Ritmo\n• 9:00pm Three dance performances (Ay Papá, Me Mantengo, Madre Rumba Padre Son)\n• 9:20pm Big Rueda and Salsa Suelta\n• Workshops $10-20 sliding scale (includes party admission); party only $5-10 sliding scale\n• Details: https://www.ruedaconritmo.com/events/2026/12/5/party (@ruedaconritmo)",
+   "url": "https://www.ruedaconritmo.com/events/2026/12/5/party",
    "recurring": true,
    "tags": [
     "social",
@@ -934,6 +900,40 @@
    "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
    "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
    "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1800590400000",
+   "start": "2027-01-22T04:00:00.000Z",
+   "end": "2027-01-22T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1800597600000",
+   "start": "2027-01-22T06:00:00.000Z",
+   "end": "2027-01-22T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
    "recurring": true,
    "tags": [
     "social"
