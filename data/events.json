@@ -1,29 +1,11 @@
 {
- "generated": "2026-11-13T20:29:45.665Z",
+ "generated": "2026-11-14T18:44:58.528Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 54,
+ "count": 53,
  "events": [
-  {
-   "id": "dubons13c1pkeaghp5mfks4h78@google.com-1794630600000",
-   "start": "2026-11-14T04:30:00.000Z",
-   "end": "2026-11-14T06:00:00.000Z",
-   "allDay": false,
-   "title": "Una Noche de Son Cubano: Son Chévere",
-   "rawTitle": "[SF: 💃🏽🪘] Una Noche de Son Cubano: Son Chévere ($10-20)",
-   "region": "San Francisco",
-   "price": "$10-20",
-   "location": "Mission Neighborhood Center, 362 Capp St, San Francisco, CA 94110",
-   "notes": "• Dance classes at 6:00pm and 7:15pm (all levels), then live music 8:30–10pm — Son Con Timba with Son Chévere\n• Tonight the band debuts a brand-new original song by band member Ryan\n• Party free with any class, otherwise $10–20 sliding (cash or Venmo)\n• Full night runs 6:00–10:00pm\n• Source: https://www.ruedaconritmo.com/events/2026/11/13/chevere — Rueda Con Ritmo (@ruedaconritmo)",
-   "url": "https://www.ruedaconritmo.com/events/2026/11/13/chevere",
-   "recurring": false,
-   "tags": [
-    "social",
-    "live"
-   ]
-  },
   {
    "id": "4picfrtq80qplbbcad77i5goq4@google.com-1794634200000",
    "start": "2026-11-14T05:30:00.000Z",
