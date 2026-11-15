@@ -1,47 +1,11 @@
 {
- "generated": "2026-11-14T18:44:58.528Z",
+ "generated": "2026-11-15T19:23:02.410Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 53,
+ "count": 51,
  "events": [
-  {
-   "id": "4picfrtq80qplbbcad77i5goq4@google.com-1794634200000",
-   "start": "2026-11-14T05:30:00.000Z",
-   "end": "2026-11-14T08:00:00.000Z",
-   "allDay": false,
-   "title": "Timba Underground",
-   "rawTitle": "[EB: 💃🏽] Timba Underground ($10)",
-   "region": "East Bay",
-   "price": "$10",
-   "location": "507 55th St, Oakland, CA (EBCS, cross street Telegraph)",
-   "notes": "• Timba, salsa & reparto social — 7:30pm doors, 8:30pm casino/timba partnering class, 9:30pm party\n• Presented by @salsanick\n• Source: https://facebook.com/groups/svtstudents/permalink/28690281393932851/",
-   "url": "https://facebook.com/groups/svtstudents/permalink/28690281393932851/",
-   "recurring": false,
-   "tags": [
-    "social",
-    "cuban"
-   ]
-  },
-  {
-   "id": "scf315sqjbjnb0macpgilk6b6s@google.com-1794715200000",
-   "start": "2026-11-15T04:00:00.000Z",
-   "end": "2026-11-15T06:00:00.000Z",
-   "allDay": false,
-   "title": "Salsa Dance with Guajirón @ Sausalito Seahorse",
-   "rawTitle": "[Marin: 💃🏽🪘] Salsa Dance with Guajirón @ Sausalito Seahorse ($20)",
-   "region": "Marin",
-   "price": "$20",
-   "location": "Sausalito Seahorse, 305 Harbor Dr, Sausalito, CA",
-   "notes": "• Doors open 6:30pm for dinner; live music/dancing 8–10pm\n• Salsa dance night with live Cuban music by Guajirón\n• Tickets $20: https://guajiron.com/shows/ | IG: https://www.instagram.com/guajironmusic/",
-   "url": "https://guajiron.com/shows/",
-   "recurring": false,
-   "tags": [
-    "social",
-    "live"
-   ]
-  },
   {
    "id": "7adecsfn68r8najqdovgq2cjlh_R20261019T000000@google.com-1794790800000",
    "start": "2026-11-16T01:00:00.000Z",
