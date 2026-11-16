@@ -1,28 +1,11 @@
 {
- "generated": "2026-11-15T19:23:02.410Z",
+ "generated": "2026-11-16T22:54:07.845Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 51,
+ "count": 52,
  "events": [
-  {
-   "id": "7adecsfn68r8najqdovgq2cjlh_R20261019T000000@google.com-1794790800000",
-   "start": "2026-11-16T01:00:00.000Z",
-   "end": "2026-11-16T06:00:00.000Z",
-   "allDay": false,
-   "title": "TUMBAO w/ DJ JuanLove",
-   "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
-   "region": "East Bay",
-   "price": "$10",
-   "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
-   "notes": "TUMBAO with DJ JuanLove (https://www.instagram.com/djjuanloveoakland/)\n\n4-5pm ($15 includes party)\nSalsa Rueda Class with Pablo Dinámico\n\n5-10pm ($10)\nTUMBAO Dance Party with DJ JuanLove",
-   "url": "https://www.instagram.com/djjuanloveoakland/",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1795064400000",
    "start": "2026-11-19T05:00:00.000Z",
@@ -55,6 +38,24 @@
    "recurring": true,
    "tags": [
     "social"
+   ]
+  },
+  {
+   "id": "dc4ajv5mju7dhjpht7b1bubi5g@google.com-1795150800000",
+   "start": "2026-11-20T05:00:00.000Z",
+   "end": "2026-11-20T08:00:00.000Z",
+   "allDay": false,
+   "title": "Salsabrosos at Savoy Tivoli",
+   "rawTitle": "[SF: 💃🏽🪘] Salsabrosos at Savoy Tivoli ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Savoy Tivoli, 1434 Grant Ave, San Francisco, CA",
+   "notes": "• Live salsa with Salsabrosos — special guest Belén Cortés,\n• Salsa lessons 8pm; live music 9pm–12am\n• $10 entry covers a drink; brand-new dance floor\n• Source: https://www.instagram.com/p/DfxqUvwy2fi/ — @salsabrosos",
+   "url": "https://www.instagram.com/p/DfxqUvwy2fi/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
    ]
   },
   {
@@ -401,6 +402,24 @@
    "recurring": true,
    "tags": [
     "social"
+   ]
+  },
+  {
+   "id": "m8sk418o4rrk4ec4ltmiiukm7k@google.com-1797053400000",
+   "start": "2026-12-12T05:30:00.000Z",
+   "end": "2026-12-12T08:00:00.000Z",
+   "allDay": false,
+   "title": "Timba Underground",
+   "rawTitle": "[EB: 💃🏽] Timba Underground ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "East Bay Community Space, 507 55th St, Oakland, CA (EBCS, cross street Telegraph)",
+   "notes": "• Timba Underground — salsa/timba social, 2nd Fridays @ EBCS\n• Time/price per the recurring pattern (Nov 13 ran 9:30pm, $10); not stated in the posts\n• IG: https://www.instagram.com/reel/DfxegZaBHLQ/ | FB: https://facebook.com/groups/svtstudents/permalink/29180252174935768/",
+   "url": "https://www.instagram.com/reel/DfxegZaBHLQ/",
+   "recurring": false,
+   "tags": [
+    "social",
+    "cuban"
    ]
   },
   {
