@@ -1,63 +1,11 @@
 {
- "generated": "2026-11-19T21:36:34.679Z",
+ "generated": "2026-11-20T21:06:19.431Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 52,
+ "count": 53,
  "events": [
-  {
-   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1795147200000",
-   "start": "2026-11-20T04:00:00.000Z",
-   "end": "2026-11-20T06:00:00.000Z",
-   "allDay": false,
-   "title": "Salsa at Comal",
-   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
-   "region": "East Bay",
-   "price": "Free",
-   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
-   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
-   "url": "https://www.facebook.com/MundoMuzik/",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
-  {
-   "id": "dc4ajv5mju7dhjpht7b1bubi5g@google.com-1795150800000",
-   "start": "2026-11-20T05:00:00.000Z",
-   "end": "2026-11-20T08:00:00.000Z",
-   "allDay": false,
-   "title": "Salsabrosos at Savoy Tivoli",
-   "rawTitle": "[SF: 💃🏽🪘] Salsabrosos at Savoy Tivoli ($10)",
-   "region": "San Francisco",
-   "price": "$10",
-   "location": "Savoy Tivoli, 1434 Grant Ave, San Francisco, CA",
-   "notes": "• Live salsa with Salsabrosos — special guest Belén Cortés,\n• Salsa lessons 8pm; live music 9pm–12am\n• $10 entry covers a drink; brand-new dance floor\n• Source: https://www.instagram.com/p/DfxqUvwy2fi/ — @salsabrosos",
-   "url": "https://www.instagram.com/p/DfxqUvwy2fi/",
-   "recurring": false,
-   "tags": [
-    "social",
-    "live"
-   ]
-  },
-  {
-   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1795154400000",
-   "start": "2026-11-20T06:00:00.000Z",
-   "end": "2026-11-20T08:00:00.000Z",
-   "allDay": false,
-   "title": "AHÍ NAMA",
-   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
-   "region": "East Bay",
-   "price": "$10",
-   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
-   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
-   "url": "https://linktr.ee/AHINAMAOakland",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "2a05u8kflvqaprc9ga00m683v5@google.com-1795234500000",
    "start": "2026-11-21T04:15:00.000Z",
@@ -279,6 +227,40 @@
    "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
    "url": "https://linktr.ee/AHINAMAOakland",
    "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "57prov1qb6o65vg23va453ngoo@google.com-1796444100000",
+   "start": "2026-12-05T04:15:00.000Z",
+   "end": "2026-12-05T07:00:00.000Z",
+   "allDay": false,
+   "title": "RCR Mars Bar",
+   "rawTitle": "[SF: 💃🏽] RCR Mars Bar ($5-10)",
+   "region": "San Francisco",
+   "price": "$5-10",
+   "location": "Mars Bar & Restaurant, 798 Brannan St, San Francisco, CA 94103, USA",
+   "notes": "• 6:00 - 7:00pm Cuban Salsa & Rueda (Level 1, 3, 4)\n• 7:15 - 8:15pm Cuban Salsa & Rueda (Level 2, 3, 4)\n• 8:15pm-11pm Open dancing with DJ Michael — old-school Cuban music from the 70s, 80s & 90s, ALL ON VINYL (special December double Mars Bar night)\n• https://www.ruedaconritmo.com/events/2026/12/4and18/mars",
+   "url": "https://www.ruedaconritmo.com/events/2026/12/4and18/mars",
+   "recurring": false,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "66vn2e224bt8bmifbgd8iom4dc@google.com-1796446800000",
+   "start": "2026-12-05T05:00:00.000Z",
+   "end": "2026-12-05T08:00:00.000Z",
+   "allDay": false,
+   "title": "DESATA’O",
+   "rawTitle": "[EB: 💃🏽] DESATA’O ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "La Furia Chalaca, 310 Broadway, Oakland, CA 94607",
+   "notes": "**Ends 1a**\n• First-Friday DESATA’O party with Pablo Dinámico + Dimelo DJ — salsa, timba, reparto, bachata & merengue\n• “Donde hay sabor hay Ashe!” — Latin Bay Ashe\n• Source: https://www.instagram.com/latinbayashe/",
+   "url": "https://www.instagram.com/latinbayashe/",
+   "recurring": false,
    "tags": [
     "social"
    ]
@@ -899,6 +881,40 @@
    "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
    "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
    "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1801195200000",
+   "start": "2027-01-29T04:00:00.000Z",
+   "end": "2027-01-29T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1801202400000",
+   "start": "2027-01-29T06:00:00.000Z",
+   "end": "2027-01-29T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
    "recurring": true,
    "tags": [
     "social"
