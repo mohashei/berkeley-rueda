@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T20:06:50.115Z",
+ "generated": "2026-11-22T20:22:24.950Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
@@ -92,17 +92,17 @@
    ]
   },
   {
-   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1795993200000",
-   "start": "2026-11-29T23:00:00.000Z",
-   "end": "2026-11-30T04:00:00.000Z",
+   "id": "39uuis9hbrhs32a9f4r34njhoo@google.com-1796000400000",
+   "start": "2026-11-30T01:00:00.000Z",
+   "end": "2026-11-30T06:00:00.000Z",
    "allDay": false,
    "title": "TUMBAO w/ DJ JuanLove",
    "rawTitle": "[EB: 💃🏽] TUMBAO w/ DJ JuanLove ($10)",
    "region": "East Bay",
    "price": "$10",
    "location": "Mad Oak Bar ‘N’ Yard, 135 12th St, Oakland, CA 94607, USA",
-   "notes": "TUMBAO with DJ JuanLove — SPECIAL HOURS this Sunday due to a private event\n\n• 2-3pm ($15 includes party) — Salsa Rueda Class with Pablo Dinámico\n• 3-8pm ($10) — TUMBAO Dance Party with DJ JuanLove: Cuban salsa/timba + reparto sets\n\nSource: https://www.instagram.com/reel/Dfm5XMzvbhl/ (@djjuanloveoakland, November 2026 gigs)",
-   "url": "https://www.instagram.com/reel/Dfm5XMzvbhl/",
+   "notes": "TUMBAO with DJ JuanLove\n\n• 4-5pm ($15 includes party) — Salsa Rueda Class with Pablo Dinámico\n• 5-10pm ($10) — TUMBAO Dance Party with DJ JuanLove: Cuban salsa/timba + reparto sets\n• Source: https://www.instagram.com/reel/DgA9lPHvmtt/ (@djjuanloveoakland, November 2026 gigs — 11/29 private event canceled, back to regular hours)",
+   "url": "https://www.instagram.com/reel/DgA9lPHvmtt/",
    "recurring": true,
    "tags": [
     "social"
