@@ -1,10 +1,10 @@
 {
- "generated": "2026-11-24T23:01:52.580Z",
+ "generated": "2026-11-25T22:33:56.268Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 53,
+ "count": 54,
  "events": [
   {
    "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1795669200000",
@@ -49,10 +49,27 @@
    "rawTitle": "[SF: 💃🏽] LA-TROPICAL ($10)",
    "region": "San Francisco",
    "price": "$10",
-   "location": "Il Pirata",
+   "location": "il Pirata, 2007 16th St, San Francisco, CA",
    "notes": "**Ends 2am**\nTimba y Reggaeton Cubano with DJ WaltDigz & DJ Dark Rum\nhttps://www.instagram.com/anejoprod",
    "url": "https://www.instagram.com/anejoprod",
    "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "4fe146kl9gih2v1qi91easqsvk@google.com-1795932000000",
+   "start": "2026-11-29T06:00:00.000Z",
+   "end": "2026-11-29T08:00:00.000Z",
+   "allDay": false,
+   "title": "Latin Night & Hip Hop @ Club Cali",
+   "rawTitle": "[EB: 💃🏽] Latin Night & Hip Hop @ Club Cali",
+   "region": "East Bay",
+   "price": null,
+   "location": "Club Cali, 2367 Telegraph Ave, Berkeley, CA",
+   "notes": "**Ends 2a**\n• Latin night party — salsa, bachata, merengue, cumbia & pop latino, live performance by Dos Four\n• Music by DJ Leydis (@djleydis) & DJ Adonis (@djadonisfonteno)\n• 21+ | Presented by Hasta Abajo Nights\n• Source: https://www.instagram.com/p/DgJGJLkvYEj/",
+   "url": "https://www.instagram.com/p/DgJGJLkvYEj/",
+   "recurring": false,
    "tags": [
     "social"
    ]
