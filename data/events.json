@@ -1,28 +1,11 @@
 {
- "generated": "2026-11-25T22:33:56.268Z",
+ "generated": "2026-11-26T22:22:16.107Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
  "count": 54,
  "events": [
-  {
-   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1795669200000",
-   "start": "2026-11-26T05:00:00.000Z",
-   "end": "2026-11-26T08:00:00.000Z",
-   "allDay": false,
-   "title": "El Timbon — Friendsgiving",
-   "rawTitle": "[SF: 💃🏽] El Timbon — Friendsgiving ($10)",
-   "region": "San Francisco",
-   "price": "$10",
-   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
-   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
-   "url": "https://www.instagram.com/waltdigz/",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1795759200000",
    "start": "2026-11-27T06:00:00.000Z",
@@ -937,6 +920,23 @@
     "social",
     "live",
     "cuban"
+   ]
+  },
+  {
+   "id": "3t4b8jjt4ka5lcisbgmqaso5c5@google.com-1801717200000",
+   "start": "2027-02-04T05:00:00.000Z",
+   "end": "2027-02-04T08:00:00.000Z",
+   "allDay": false,
+   "title": "El Timbon",
+   "rawTitle": "[SF: 💃🏽] El Timbon ($10)",
+   "region": "San Francisco",
+   "price": "$10",
+   "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
+   "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
+   "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
    ]
   }
  ]
