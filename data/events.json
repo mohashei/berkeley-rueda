@@ -1,28 +1,11 @@
 {
- "generated": "2026-11-26T22:22:16.107Z",
+ "generated": "2026-11-27T21:58:29.045Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
- "count": 54,
+ "count": 55,
  "events": [
-  {
-   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1795759200000",
-   "start": "2026-11-27T06:00:00.000Z",
-   "end": "2026-11-27T08:00:00.000Z",
-   "allDay": false,
-   "title": "AHÍ NAMA",
-   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
-   "region": "East Bay",
-   "price": "$10",
-   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
-   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
-   "url": "https://linktr.ee/AHINAMAOakland",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "5u425p3huisrbepni6d1k1tscj@google.com-1795845600000",
    "start": "2026-11-28T06:00:00.000Z",
@@ -934,6 +917,40 @@
    "location": "Upcider, 1160 Polk St 2nd floor, San Francisco, CA 94109, USA",
    "notes": "** Ends 1a\n⭐️⭐️𝐄𝐋 𝐓𝐈𝐌𝐁𝐎𝐍⭐️⭐️\n\n🇨🇺 Salsa | Timba | Reparto 🇨🇺\n\n⏰7:30pm:\n• Learn to dance salsa (rueda de casino) w/ Rick\n• All levels welcomed.\n• No partner required.\n\n⏰9pm:\nDance party with DJ @waltdigz (https://www.instagram.com/waltdigz/) 🕺🏽🪩💃🏽\n\n🍔 Kitchen closes at 10:30pm\n\n📍Upcider\n1160 Polk St SF\n7:30pm - 1am\n\nTimba beats hosted by DJ WaltDigz, see recent post at https://www.instagram.com/anejoprod/ for details.",
    "url": "https://www.instagram.com/waltdigz/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "qit9eep5ubnkccgkcio3slu91s_R20250131T040000@google.com-1801800000000",
+   "start": "2027-02-05T04:00:00.000Z",
+   "end": "2027-02-05T06:00:00.000Z",
+   "allDay": false,
+   "title": "Salsa at Comal",
+   "rawTitle": "[EB: 💃🏽] Salsa at Comal ($Free)",
+   "region": "East Bay",
+   "price": "Free",
+   "location": "Comal Berkeley (2020 Shattuck Ave., Berkeley, CA 94704)",
+   "notes": "With DJ José Ruíz on Vinyl! https://www.facebook.com/MundoMuzik/\nNot Cuban/Timba per se, but you'll typically find a few Casiner@s here. \n\nSalsa/Merengue/Bachata party every Thursday in the backyard of Comal. It is outdoor with headlamps when cold.",
+   "url": "https://www.facebook.com/MundoMuzik/",
+   "recurring": true,
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "9v2g8e3qe5ja6h0apo6tnvbdv2_R20250117T060000@google.com-1801807200000",
+   "start": "2027-02-05T06:00:00.000Z",
+   "end": "2027-02-05T08:00:00.000Z",
+   "allDay": false,
+   "title": "AHÍ NAMA",
+   "rawTitle": "[EB: 💃🏽] AHÍ NAMA ($10)",
+   "region": "East Bay",
+   "price": "$10",
+   "location": "Zanzi Oakland, 19 Grand Ave, Oakland, CA 94612, USA",
+   "notes": "**Ends 1a**\n8p beginner rueda class\n9p intermediate\n10-1 social dancing\nhttps://linktr.ee/AHINAMAOakland",
+   "url": "https://linktr.ee/AHINAMAOakland",
    "recurring": true,
    "tags": [
     "social"
