@@ -1,28 +1,11 @@
 {
- "generated": "2026-11-27T21:58:29.045Z",
+ "generated": "2026-11-28T20:55:50.530Z",
  "timezone": "America/Los_Angeles",
  "windowDays": 70,
  "source": "una bulla",
  "sourceUrl": "https://www.unabulla.com/sf",
  "count": 55,
  "events": [
-  {
-   "id": "5u425p3huisrbepni6d1k1tscj@google.com-1795845600000",
-   "start": "2026-11-28T06:00:00.000Z",
-   "end": "2026-11-28T08:00:00.000Z",
-   "allDay": false,
-   "title": "LA-TROPICAL",
-   "rawTitle": "[SF: 💃🏽] LA-TROPICAL ($10)",
-   "region": "San Francisco",
-   "price": "$10",
-   "location": "il Pirata, 2007 16th St, San Francisco, CA",
-   "notes": "**Ends 2am**\nTimba y Reggaeton Cubano with DJ WaltDigz & DJ Dark Rum\nhttps://www.instagram.com/anejoprod",
-   "url": "https://www.instagram.com/anejoprod",
-   "recurring": true,
-   "tags": [
-    "social"
-   ]
-  },
   {
    "id": "4fe146kl9gih2v1qi91easqsvk@google.com-1795932000000",
    "start": "2026-11-29T06:00:00.000Z",
@@ -385,6 +368,24 @@
    "recurring": true,
    "tags": [
     "social"
+   ]
+  },
+  {
+   "id": "vfvvvqdh2ui2fb2rklegmib0v0@google.com-1797656400000",
+   "start": "2026-12-19T05:00:00.000Z",
+   "end": "2026-12-19T07:50:00.000Z",
+   "allDay": false,
+   "title": "BAILA! Dance Party ft. Los Jefes",
+   "rawTitle": "[EB: 💃🏽🪘] BAILA! Dance Party ft. Los Jefes ($15-30)",
+   "region": "East Bay",
+   "price": "$15-30",
+   "location": "La Peña Cultural Center, 3105 Shattuck Ave, Berkeley, CA 94705",
+   "notes": "**Ends 1a**\nMonthly Latine community dance party — every 3rd Friday at La Peña, centering consent and inclusivity.\n\n• 8pm gender-inclusive salsa & bachata class (doors 7:30pm)\n• 10pm live salsa band: Los Jefes\n• Two dance floors with DJs José Ruíz & DJ Ron\n• Baile until 1am\n\nTickets $15–30 (Super Early Bird $15, Early Bird $20, presale $25 until midnight night before, $30 at door): https://www.eventbrite.com/e/baila-community-dance-party-ft-los-jefes-tickets-2005181171863",
+   "url": "https://www.eventbrite.com/e/baila-community-dance-party-ft-los-jefes-tickets-2005181171863",
+   "recurring": false,
+   "tags": [
+    "social",
+    "live"
    ]
   },
   {
